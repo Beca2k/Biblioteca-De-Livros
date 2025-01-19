@@ -2,7 +2,7 @@ public class Biblioteca {
 
 	public static void main(String[] args) {
 
-		System.out.println("Olá bem vindo a sua Biblioteca Pessoal 2");
+		System.out.println("Olá bem vindo a sua Biblioteca Pessoal");
 		System.out.println("--------------------------------------------");
 
 		int opcao = 0;
